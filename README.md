@@ -8,7 +8,6 @@
 
 Este projeto é o primeiro passo para a construção de um **ecossistema de tokenomics** que poderá ser expandido para diversas aplicações, desde **programas de fidelidade** a **clubes de descontos**. Empresas poderão emitir tokens personalizados para seus clientes, oferecendo uma nova forma de engajamento e benefícios.
 
-![utility-Token-image](https://github.com/user-attachments/assets/70f9e748-0f6b-4d91-81cd-e6fdb63f4b9b)
 <img width="560" alt="py_QgQ5MldPHW" src="https://github.com/user-attachments/assets/3b6ac1bf-5ba8-4684-8c18-0c9962f08b52">
 
 <img width="581" alt="chrome_6bQhx2yM6z" src="https://github.com/user-attachments/assets/243911c6-7de5-461f-8aae-5cadddd51347">
